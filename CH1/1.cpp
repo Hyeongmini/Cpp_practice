@@ -2,7 +2,7 @@
 
 int main() 
 {
-	
+
 	//출력
 	std::cout << "Hello, World!!!" << std::endl;
 	
